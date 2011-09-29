@@ -22,17 +22,22 @@
 .home_btn {
 	height: 70px;
 	width: 115px;
+	float: left;
+	margin-left: 105px;
 } 
 .about_btn {
 	height: 70px;
 	width: 115px;
+	float: left;
 }
 .product_btn {
-	height: 70px
+	height: 70px;
 	width: 155px;
+	float: left;
 }
 .contact_btn {
 	height: 70px;
 	width: 145px;
-	
+	float: left;
+	margin-right: 65px;	
 }
