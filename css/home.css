@@ -1,0 +1,38 @@
+@charset "UTF-8";
+@import url("home.css");
+.wrapper {
+	background-image: url(../Images/background.png);
+	height: 8700px;
+	width: 1100px;
+}
+.header {
+	height: 70px;
+	width: 1100px;
+}
+.picketpeport_logo {
+	height: 70px;
+	width: 400px;
+	float: left;
+}
+.navigation {
+	height: 70px;
+	width: 700px;
+	float: right;
+}
+.home_btn {
+	height: 70px;
+	width: 115px;
+} 
+.about_btn {
+	height: 70px;
+	width: 115px;
+}
+.product_btn {
+	height: 70px
+	width: 155px;
+}
+.contact_btn {
+	height: 70px;
+	width: 145px;
+	
+}
