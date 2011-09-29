@@ -41,3 +41,8 @@
 	float: left;
 	margin-right: 65px;	
 }
+.nav_text {
+	font: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: center;
+}
